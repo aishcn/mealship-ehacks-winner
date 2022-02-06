@@ -1,9 +1,8 @@
-# Team-26 eHacks 2022: MealShip Executive Summary![image](https://user-images.githubusercontent.com/37977458/152703822-d98804b2-f173-4190-b4a2-4581a5828b10.png)
+# Team-26 eHacks 2022: MealShip Executive Summary
 
 **Contributors**: 
 *Max Monciardini, Anjali Chauhan, Jinse Li, Emma Mansell*
 
- 
 ### Problem statement
 According to the USDA, more than 38 million people in the United States are food insecure, with these numbers only increasing during the pandemic. Many families that experience food insecurity do not qualify for federal nutrition programs and visit their local food banks and other food programs for extra support. MealShip aims to address two issues that the food-insecure population faces and the current alternatives do not address: decreasing food security and quality, and accessibility of food sources. Welfare programs are not available to everyone who is food-insecure. Food banks and soup kitchens have limited locations, which many do not have access to. Homeless individuals do not have regular access to kitchens or cooking supplies, even if they can get ingredients from food banks. For those seeking food support, there is a lack of choice. Finally, donors can only give prescriptively or indirectly.
 
