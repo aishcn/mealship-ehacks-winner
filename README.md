@@ -28,4 +28,3 @@ Other verticals such as groceries, prescription drugs, housing services, and oth
 
 ### Workshop Topics - Ideating Impactful Solution
 We incorporated the Design Thinking thought process: Empathize, Define, Ideate, Prototype, Test in our solution. Our key focus was empathy: each of us assumed the role of a recipient, vendor, donor, and our solution team staff to think from their perspective, and came up with a decision flow for each of these individuals that helped us to build an interface and define edge cases. We built MealShip as an app that we would be happy to donate to as well as receive from— reports have shown that transparency in the donation process has led to a high donor retention rate, which leads to recipient satisfaction and maximum impact. 
-![image](https://user-images.githubusercontent.com/37977458/152703801-c56a2bfa-02e1-4dab-9135-1e3919cae370.png)
